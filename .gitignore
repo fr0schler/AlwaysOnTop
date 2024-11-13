@@ -1,0 +1,96 @@
+# Build-Ordner
+bin/
+obj/
+
+# Benutzer-spezifische Dateien
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code-spezifische Dateien
+.vscode/
+
+# Mac-spezifische Dateien
+.DS_Store
+
+# Windows-spezifische Dateien
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Ordner für temporäre und Cache-Dateien
+.idea/
+*.tmp
+*.log
+*.lock
+*.cache
+*.output
+
+# Paket-Manager-Ordner
+packages/
+node_modules/
+
+# Lokale Tool-Dateien
+*.pdb
+*.mdb
+*.opendb
+*.pidb
+
+# Arbeitsverzeichnisse und temporäre Dateien
+*.diff
+*.patch
+*.orig
+*.rej
+*.swo
+*.swp
+*.bak
+*.old
+*.backup
+
+# Ausführbare Dateien
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+
+# Konfigurationsdateien
+*.config
+*.config.*
+
+# Weitere IDE-spezifische Dateien
+.vs/
+.idea/
+*.suo
+*.sln*
+*.csproj.user
+
+# Rider-Projektdateien
+.idea/
+
+# NuGet-Pakete
+*.nupkg
+*.snupkg
+.nuget/
+
+# Lokale Datenbanken
+*.mdf
+*.ldf
+*.ndf
+
+# System-Dateien
+*.DS_Store
+*.localized
+
+# Log- und Test-Output-Dateien
+*.log
+*.tlog
+TestResults/
+*.vspscc
+*.vssscc
+*.vspx
+
+# Temporäre Testdateien
+TestResult.xml
