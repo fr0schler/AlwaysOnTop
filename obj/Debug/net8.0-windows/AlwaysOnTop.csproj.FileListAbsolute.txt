@@ -1,0 +1,14 @@
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.AssemblyInfo.cs
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\AlwaysOnTop\bin\Debug\net8.0-windows\AlwaysOnTop.exe
+C:\Users\Tim\Desktop\AlwaysOnTop\bin\Debug\net8.0-windows\AlwaysOnTop.deps.json
+C:\Users\Tim\Desktop\AlwaysOnTop\bin\Debug\net8.0-windows\AlwaysOnTop.runtimeconfig.json
+C:\Users\Tim\Desktop\AlwaysOnTop\bin\Debug\net8.0-windows\AlwaysOnTop.dll
+C:\Users\Tim\Desktop\AlwaysOnTop\bin\Debug\net8.0-windows\AlwaysOnTop.pdb
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.dll
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\refint\AlwaysOnTop.dll
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.pdb
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.genruntimeconfig.cache
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\ref\AlwaysOnTop.dll
