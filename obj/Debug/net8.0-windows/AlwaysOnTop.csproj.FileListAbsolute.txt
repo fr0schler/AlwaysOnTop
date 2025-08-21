@@ -12,3 +12,4 @@ C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\refint\AlwaysOnTop.dll
 C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.pdb
 C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.genruntimeconfig.cache
 C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\ref\AlwaysOnTop.dll
+C:\Users\Tim\Desktop\AlwaysOnTop\obj\Debug\net8.0-windows\AlwaysOnTop.sourcelink.json
